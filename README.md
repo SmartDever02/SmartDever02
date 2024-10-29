@@ -7,7 +7,7 @@ I spent most of my career at startups
 
 I specialize in web development and I personally like [Next.js](https://nextjs.org).
 
-As a full time employee, I am not able to contribute to Next.js but instead I am a community helper in the [official Next.js Discord server](https://nextjs.org/discord).
+As a full time employee, I am not able to contribute to Next.js but instead I am a community helper in the [official Next.js Discord server](https://nextjs.org/discord) - James4u.
 
 You can find me in the [forum leaderboard](https://nextjs-forum.com).
 
