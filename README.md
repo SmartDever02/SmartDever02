@@ -3,7 +3,7 @@
 <!-- START -->
 
 I am a full stack software engineer who plays with javascript all the day.
-I spent most of my career at startups 
+I spent most of my career at startups - you can read my story from my [portfolio website](https://jamesjin-awesome.vercel.app)
 
 I specialize in web development and I personally like [Next.js](https://nextjs.org).
 
@@ -14,3 +14,5 @@ You can find me in the [forum leaderboard](https://nextjs-forum.com) - James4u.
 Apart from Next.js, I am also interested in [Stencil.js](https://stenciljs.com) as web components can be embeded easily in any of our projects!
 
 When I work I drink a lot of ☕ and also in my free time, I like to watch animes or play [Dota2](https://www.dota2.com/)
+
+<!-- END -->
