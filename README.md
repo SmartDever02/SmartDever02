@@ -1,16 +1,17 @@
-## Hi there 👋
+**I am open to any collaboration on exciting projects!**
 
-<!--
-**SmartDever02/SmartDever02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- START -->
 
-Here are some ideas to get you started:
+I am a full stack software engineer who plays with javascript all the day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in web development and I personally like [Next.js](https://nextjs.org).
+
+As a full time employee, I am not able to contribute to Next.js but instead I am a community helper in the [official Next.js Discord server](https://nextjs.org/discord).
+
+You can find me in the [forum leaderboard](https://nextjs-forum.com) - James4u.
+
+Apart from Next.js, I am also interested in [Stencil.js](https://stenciljs.com) as web components can be embeded easily in any of our projects!
+
+When I work I drink a lot of ☕ and also in my free time, I like to watch animes or play [Dota2](https://www.dota2.com/), [Project-007](https://ioi.dk/project-007).
+
+<!-- END -->
